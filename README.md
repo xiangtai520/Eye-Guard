@@ -1,7 +1,7 @@
 # Eye Guard 👁️
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xiangtai520/Eye-Guard/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="120" height="120" alt="Eye Guard Logo"/>
+  <img src="https://github.com/xiangtai520/Eye-Guard/blob/main/Eye%20Guard_1.0.1714.apk_icon.webp" width="120" height="120" alt="Eye Guard Logo"/>
 </p>
 
 <p align="center">
