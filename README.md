@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>您的视力健康管家 —— 严格践行 20-20-20 护眼黄金法则</strong>
+  <strong>您的视力健康管家</strong>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 | 1. 护眼主页 | 2. 偏好设置 | 3. 强提醒界面 | 4. 关于页面 |
 | :---: | :---: | :---: | :---: |
-| <img src="1000031602.png" width="200"/> | <img src="1000031604.png" width="200"/> | <img src="Strong reminder - take a screenshot.png" width="200"/> | <img src="1000031606.png" width="200"/> |
+| <img src="Home page - take a screenshot.png" width="200"/> | <img src="Preferences - Screenshot.png" width="200"/> | <img src="Strong reminder - take a screenshot.png" width="200"/> | <img src="About - Screenshot.png" width="200"/> |
 
 ---
 
