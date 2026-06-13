@@ -31,7 +31,7 @@
 
 | 1. 护眼主页 | 2. 偏好设置 | 3. 强提醒界面 | 4. 关于页面 |
 | :---: | :---: | :---: | :---: |
-| <img src="Home page - take a screenshot.png" width="200"/> | <img src="Preferences - Screenshot.png" width="200"/> | <img src="Strong reminder - take a screenshot.png" width="200"/> | <img src="About - Screenshot.png" width="200"/> |
+| <img src="Home page - take a screenshot.png" width="200"/> | <img src="Preferences - Screenshot.png" width="200"/> | <img src="Strong reminder - screenshot.png" width="200"/> | <img src="About - Screenshot.png" width="200"/> |
 
 ---
 
