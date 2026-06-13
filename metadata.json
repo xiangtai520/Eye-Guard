@@ -1,0 +1,6 @@
+{
+  "name": "Eye Guard",
+  "description": "基于20-20-20法则的极简护眼提醒应用，定时触发全屏远眺休息倒计时，保护视力健康。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
