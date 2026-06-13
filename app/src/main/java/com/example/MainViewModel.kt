@@ -34,6 +34,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     init {
         // Synchronize helper countdown state with saved prefs
         EyeGuardService.updateIdleTimerValue(application)
+        IconSuiteHelper.updateLauncherIcon(application, _currentThemeMode.value)
     }
 
     companion object {
@@ -47,6 +48,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     fun setThemeMode(mode: String) {
         _currentThemeMode.value = mode
         sharedPrefs.edit().putString("theme_mode", mode).apply()
+        IconSuiteHelper.updateLauncherIcon(getApplication(), mode)
     }
 
     fun setWorkDuration(minutes: Int) {
