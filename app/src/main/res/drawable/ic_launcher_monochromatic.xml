@@ -4,37 +4,23 @@
     android:viewportWidth="108"
     android:viewportHeight="108">
 
-    <!-- Outer tech protection brackets -->
+    <!-- Eye Wave Shape -->
     <path
-        android:pathData="M 32,28 A 31,31 0 0,1 76,28"
+        android:pathData="M 30,54 C 38,34 70,34 78,54 C 70,74 38,74 30,54 Z"
         android:strokeColor="#FFFFFF"
-        android:strokeWidth="3"
-        android:strokeLineCap="round"
-        android:fillColor="#00000000" />
-    <path
-        android:pathData="M 32,80 A 31,31 0 0,0 76,80"
-        android:strokeColor="#FFFFFF"
-        android:strokeWidth="3"
-        android:strokeLineCap="round"
-        android:fillColor="#00000000" />
-
-    <!-- Protected Eye Wave Shape -->
-    <path
-        android:pathData="M 30,54 C 38,36 70,36 78,54 C 70,72 38,72 30,54 Z"
-        android:strokeColor="#FFFFFF"
-        android:strokeWidth="3.5"
+        android:strokeWidth="5.5"
         android:strokeLineJoin="round"
         android:fillColor="#00000000" />
 
     <!-- Outer Iris Ring (Donut hole pupil cutout utilizing evenOdd fillType) -->
     <path
-        android:pathData="M54,54 m-9,0 a9,9 0 1,1 18,0 a9,9 0 1,1 -18,0 M54,54 m-5.5,0 a5.5,5.5 0 1,0 11,0 a5.5,5.5 0 1,0 -11,0"
+        android:pathData="M54,54 m-11,0 a11,11 0 1,1 22,0 a11,11 0 1,1 -22,0 M54,54 m-6.5,0 a6.5,6.5 0 1,0 13,0 a6.5,6.5 0 1,0 -13,0"
         android:fillColor="#FFFFFF"
         android:fillType="evenOdd" />
 
-    <!-- Inner glowing Pupil Core -->
+    <!-- Inner Pupil Core -->
     <path
-        android:pathData="M54,54 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0"
+        android:pathData="M54,54 m-4,0 a4,4 0 1,1 8,0 a4,4 0 1,1 -8,0"
         android:fillColor="#FFFFFF" />
 
 </vector>
